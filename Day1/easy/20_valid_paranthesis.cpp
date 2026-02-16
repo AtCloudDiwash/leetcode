@@ -1,3 +1,15 @@
+/*
+
+Analysis
+
+optimized: O(n)
+
+my first approach: O(n); missed some edge cases
+
+
+*/
+
+
 #include <stack>
 using namespace std;
 

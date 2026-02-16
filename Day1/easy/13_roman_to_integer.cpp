@@ -1,3 +1,15 @@
+/*
+
+Analysis
+
+optimized: O(n)
+
+my first approach: O(n), though I missed some edge cases
+
+
+*/
+
+
 #include<string>
 #include<unordered_map>
 using namespace std;
