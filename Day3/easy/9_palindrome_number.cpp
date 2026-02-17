@@ -1,3 +1,15 @@
+/*
+
+Analysis
+
+optimized: O(logn)
+
+My Approach: O(logn)
+
+
+*/
+
+
 class Solution {
 public:
     bool isPalindrome(int x) {
